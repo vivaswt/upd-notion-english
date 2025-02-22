@@ -16,7 +16,13 @@ dependencies:
   - base >= 4.7 && < 5
   - http-conduit
   - bytestring
+  - transformers
   - scalpel
+  - aeson
+  - text
+  - vector
+  - safe-exceptions
+  - aeson-qq
 
 ghc-options:
   - -Wall
